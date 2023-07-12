@@ -5,3 +5,7 @@ Explanation
 4)On click the download button pdf file will be download.
 
 ![Screenshot 2023-07-12 160533](https://github.com/Neha-rajbhar/Canvas/assets/126654388/2c9091ac-1a55-4438-a5c6-51a73635fcdf)
+![Screenshot 2023-07-12 161838](https://github.com/Neha-rajbhar/Canvas/assets/126654388/5b81f24d-7b5e-4dc3-8d55-e8f76ea2949b)
+
+It is a pdf of multiple pages the screenshot is of only one page
+![Screenshot 2023-07-12 161952](https://github.com/Neha-rajbhar/Canvas/assets/126654388/ea51587f-17db-48c1-9401-b2bf422f7490)
