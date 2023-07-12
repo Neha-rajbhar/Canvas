@@ -1,0 +1,33 @@
+.can{
+    border: 2px solid blue;
+}
+.text{
+    display: flex;
+    padding: 2%;
+    justify-content: space-between;
+    border: 2px solid pink;
+    height: 5vh;
+    width: 30vw;
+}
+.btn{
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    font-weight: 100;
+    border-radius: 10px;
+}
+
+.down{
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: 17px;
+    font-weight: 100;
+    border-radius: 10px;
+    width: 30%;
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    padding-top: 2%;
+}
